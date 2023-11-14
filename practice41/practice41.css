@@ -1,0 +1,12 @@
+.card {
+    width: 320px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.username {
+    width: 240px;
+    height: 20px;
+    
+}
