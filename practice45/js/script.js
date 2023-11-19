@@ -15,13 +15,6 @@
 
   loadRandomImage()
 
-
-  // const cityData = {
-  //   tehran: {temp: 18, humidity: 26, Wind: 78},
-  //   shiraz: {temp: 28, humidity: 53, Wind: 48},
-  //   tabriz: {temp: 48, humidity: 24, Wind: 64},
-  // }
-
   const cityData = [
     {id: 1, city:"tehran", temp: 18, humidity: 26, Wind: 78},
     {id: 2, city:"shiraz", temp: 56, humidity: 45, Wind: 38},
