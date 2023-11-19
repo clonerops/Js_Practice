@@ -1,6 +1,5 @@
 // یک برنامه بنویسید که فرم هارا ولیدیشن کند بطوریکه نام کاربری 8 کاراکتر و پسورد 6 و هنگام تایپ کاربر چک کند
-// با متد onblur
-
+// با ایونت بلور بنویسید
 let username = document.getElementById("typeUsernameX")
 let password = document.getElementById("typePasswordX")
 function checkusername() {
@@ -20,4 +19,4 @@ function checkpassword() {
     } else {
         getSpanPasswordHint.innerHTML = "پسورد مورد تایید است"
     }
-}   
+}
